@@ -11,17 +11,21 @@ A Full-Stack Student Management System that allows users to efficiently manage s
 📱 Responsive and user-friendly interface
 💾 Database integration for persistent storage
 ⚡ Fast and efficient CRUD operations
+
 🛠️ Tech Stack
 Frontend
 HTML5
 CSS3
 JavaScript
 React.js
+
 Backend
 Node.js
 Express.js
+
 Database
 MongoDB / MySQL
+
 Tools
 Git & GitHub
 VS Code
